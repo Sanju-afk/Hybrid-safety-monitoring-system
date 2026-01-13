@@ -50,7 +50,7 @@ Since these are Jupyter Notebooks, the easiest way to run them is via **Google C
     git clone [https://github.com/your-username/GeoGuardian.git](https://github.com/your-username/GeoGuardian.git)
     ```
 2.  **Open in Colab:**
-    * Upload `Dynamic_Model_LSTM.ipynb` or `Static_Model_RF_NN.ipynb` to [Google Colab](https://colab.research.google.com/).
+    * Upload `anomaly_lstm.ipynb` or `Static_Model_RF_NN.ipynb` to [Google Colab](https://colab.research.google.com/drive/1s6i2VbNJ6n6oESLVi_yvprIYdgc6kwU3?authuser=1#scrollTo=ixoa4iB6-uyq) [Google Colab](https://colab.research.google.com/drive/1p6OvG0fEQ9tny6VkvY_lNTmPTd0_5-xQ#scrollTo=7p2sJtFyl7Zr).
 3.  **Upload Data:**
     * Ensure you upload the accompanying dataset (CSV files) to the Colab session storage before running the cells.
     * *Note: The model is currently trained on Ernakulam geospatial datasets.*
@@ -63,4 +63,4 @@ Since these are Jupyter Notebooks, the easiest way to run them is via **Google C
 * Implement real-time SOS triggering based on LSTM anomaly confidence scores.
 
 ---
-*Developed by [Your Name] for SIH 2025.*
+*Developed by R SANJAY for SIH 2025.*
