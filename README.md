@@ -58,6 +58,7 @@ Since these are Jupyter Notebooks, the easiest way to run them is via **Google C
 ---
 
 ## 🔮 Future Roadmap
+* Implement clustering of locations with similar safety scores.
 * Scale geospatial training data to cover all of Kerala.
 * Integrate with a Flutter/React Native frontend for a user-facing mobile app.
 * Implement real-time SOS triggering based on LSTM anomaly confidence scores.
